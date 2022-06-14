@@ -4,10 +4,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   </h1>
 </div>
- Welcome to my Gtihub profile ! \
- I'm Mathilde, a junior fullstack developer from France.\
+ Welcome to my Gtihub profile ! <br />
+ I'm Mathilde, a junior fullstack developer from France. <br />
  I've started my developer journey two years ago and I'm currently searching for an intership !
- Thanks for visiting and don't hesitate to contact me on Linkedin or by mail.
+ Thanks for visiting and don't hesitate to contact me on Linkedin page or by mail.
  
  Bye bye 💖
  
