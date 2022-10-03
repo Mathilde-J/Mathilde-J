@@ -10,7 +10,7 @@
  
  Bye bye 💖
  
-🌻 Don't hesitate to send a mail or a private message on Linkedin 🙂 \
+🌻 Don't hesitate to send an email or a private message on Linkedin 🙂 \
  \
  To reach me :
 [![Linkedin Badge](https://img.shields.io/badge/-Mathilde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathildejanssenld/)](https://www.linkedin.com/in/mathildejanssenld/)
