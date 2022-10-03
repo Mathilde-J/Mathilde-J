@@ -6,7 +6,7 @@
 </div>
  Welcome to my Gtihub profile ! <br />
  I'm Mathilde, a junior fullstack developer from France. <br />
- Thanks for visiting and don't hesitate to contact me on Linkedin page or by mail.
+ Thanks for visiting my profile and don't hesitate to contact me on my Linkedin page or by mail.
  
  Bye bye 💖
  
